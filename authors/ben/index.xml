@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben on Ben Dickson</title>
+    <link>https://examplesite.org/authors/ben/</link>
+    <description>Recent content in Ben on Ben Dickson</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 20:29:54 -0600</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/ben/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS</title>
+      <link>https://examplesite.org/project/aws/</link>
+      <pubDate>Wed, 27 Jan 2021 20:29:54 -0600</pubDate>
+      
+      <guid>https://examplesite.org/project/aws/</guid>
+      <description>&lt;p&gt;ec2&lt;/p&gt;
+&lt;p&gt;lambda&lt;/p&gt;
+&lt;p&gt;rds&lt;/p&gt;
+&lt;p&gt;sagemaker&lt;/p&gt;
+&lt;p&gt;dms&lt;/p&gt;
+&lt;p&gt;quicksight&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud</title>
+      <link>https://examplesite.org/project/gcp/</link>
+      <pubDate>Wed, 27 Jan 2021 20:29:54 -0600</pubDate>
+      
+      <guid>https://examplesite.org/project/gcp/</guid>
+      <description>&lt;p&gt;compute engine&lt;/p&gt;
+&lt;p&gt;cloud functions&lt;/p&gt;
+&lt;p&gt;Pub/Sub&lt;/p&gt;
+&lt;p&gt;BigQuery&lt;/p&gt;
+&lt;p&gt;Cloud SQL&lt;/p&gt;
+&lt;p&gt;Vision API&lt;/p&gt;
+&lt;p&gt;Data Studio&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

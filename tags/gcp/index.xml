@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GCP on Ben Dickson</title>
+    <link>https://examplesite.org/tags/gcp/</link>
+    <description>Recent content in GCP on Ben Dickson</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 20:29:54 -0600</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/tags/gcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Cloud</title>
+      <link>https://examplesite.org/project/gcp/</link>
+      <pubDate>Wed, 27 Jan 2021 20:29:54 -0600</pubDate>
+      
+      <guid>https://examplesite.org/project/gcp/</guid>
+      <description>&lt;p&gt;compute engine&lt;/p&gt;
+&lt;p&gt;cloud functions&lt;/p&gt;
+&lt;p&gt;Pub/Sub&lt;/p&gt;
+&lt;p&gt;BigQuery&lt;/p&gt;
+&lt;p&gt;Cloud SQL&lt;/p&gt;
+&lt;p&gt;Vision API&lt;/p&gt;
+&lt;p&gt;Data Studio&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Crypto Investing with coinbase API and GCP</title>
+      <link>https://examplesite.org/project/automatedcoinbase/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/project/automatedcoinbase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

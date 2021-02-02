@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Ben Dickson</title>
+    <link>https://examplesite.org/tags/aws/</link>
+    <description>Recent content in AWS on Ben Dickson</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 20:29:54 -0600</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS</title>
+      <link>https://examplesite.org/project/aws/</link>
+      <pubDate>Wed, 27 Jan 2021 20:29:54 -0600</pubDate>
+      
+      <guid>https://examplesite.org/project/aws/</guid>
+      <description>&lt;p&gt;ec2&lt;/p&gt;
+&lt;p&gt;lambda&lt;/p&gt;
+&lt;p&gt;rds&lt;/p&gt;
+&lt;p&gt;sagemaker&lt;/p&gt;
+&lt;p&gt;dms&lt;/p&gt;
+&lt;p&gt;quicksight&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

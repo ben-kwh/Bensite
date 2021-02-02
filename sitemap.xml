@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://examplesite.org/authors/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/aws/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/aws/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/ben/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/gcp/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/gcp/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/</loc>
+    <lastmod>2021-01-27T20:29:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/utilitydefection/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/utilities/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/project/automatedcoinbase/</loc>
+    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/tags/crypto/</loc>
+    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.org/publication_types/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ben Dickson</title>
+    <link>https://examplesite.org/authors/</link>
+    <description>Recent content in Authors on Ben Dickson</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 20:29:54 -0600</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ben</title>
+      <link>https://examplesite.org/authors/ben/</link>
+      <pubDate>Wed, 27 Jan 2021 20:29:54 -0600</pubDate>
+      
+      <guid>https://examplesite.org/authors/ben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://examplesite.org/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/admin/</guid>
+      <description>&lt;p&gt;Smart people should build cool stuff. Humans great at solving problems when given room to be thoughtful and creative. I want to work on the important issues for society and enable others to do the same.&lt;/p&gt;
+&lt;p&gt;Doing more with less has always resonated with my lazy brain. For the last dozen years, I&amp;rsquo;ve worked in energy efficiency and renewable programs for utility customers. Through the years, I&amp;rsquo;ve excelled at making sure programs work cost effectively &amp;mdash; reaching more people and achieving more savings per program-dollar invested.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/greenzo.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As with many industries, we have challenges moving to a digital first business.  This has been a pivotal opportunity for me.  Let the machines do the work, right?  Well, I learned to code at the early age of 35, and have since expanded into data analytics, cloud engineering, and software product development.  I absolutely love making humans and machines more intelligent.  I&amp;rsquo;ve automated complex processes and created super-human cyborgs who access data and intelligence to improve their decision making.  More importantly, I&amp;rsquo;ve realized my journey is replicable.  I have leveled up multiple staff from &amp;lsquo;good with excel&amp;rsquo; to &amp;lsquo;employed data scientist&amp;rsquo;, and that is as rewarding as it gets.&lt;/p&gt;
+&lt;p&gt;Put your money where your mouth is. I want to enable world changing tech that enables society too.  I follow and invest in EV, energy storage, blockchain, and metaverse tech.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
